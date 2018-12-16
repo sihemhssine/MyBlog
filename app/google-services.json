@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "27724022815",
+    "firebase_url": "https://myblog-cfdfa.firebaseio.com",
+    "project_id": "myblog-cfdfa",
+    "storage_bucket": "myblog-cfdfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27724022815:android:a9de08a5a4e7cab0",
+        "android_client_info": {
+          "package_name": "com.example.sihem.myblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27724022815-76tettqpcovp1u0qp6dbd2b9ht038fai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHvh5P7Zlm0xVvb1XyvOTLlpondMTo980"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBlog </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_jk">jk</string>
+    <string name="title_activity_main">activity_main</string>
+    <string name="title_activity_post">activity_post</string>
+</resources>
